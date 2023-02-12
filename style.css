@@ -50,6 +50,26 @@ font-size: larger;
 }
 
 
+footer p {
+    font-size: large;
+    text-align: center;
+  }
+  
+  .footer-list {
+    margin: 1rem;
+  }
+  
+  a,
+  img,
+  li {
+    display: inline;
+  }
+  
+  img {
+    width: 40px;
+    padding: 0.2rem;
+  }
+
 
 .button{
     background-color: var(--primary-color);
